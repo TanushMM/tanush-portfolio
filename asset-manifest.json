@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/tanush-portfolio/static/css/main.ed902ce9.css",
-    "main.js": "/tanush-portfolio/static/js/main.2fb28fdc.js",
+    "main.css": "/tanush-portfolio/static/css/main.379184b5.css",
+    "main.js": "/tanush-portfolio/static/js/main.8f085acb.js",
     "static/media/projectOne.png": "/tanush-portfolio/static/media/projectOne.adb01e8b17d7b80d574e.png",
     "static/media/testimonialOne.png": "/tanush-portfolio/static/media/testimonialOne.a0a91817dfcdebaf4fa4.png",
     "static/media/bannerImg.png": "/tanush-portfolio/static/media/bannerImg.6db4fc4f7f15bb3a2542.png",
@@ -14,11 +14,11 @@
     "static/media/projectTwo.png": "/tanush-portfolio/static/media/projectTwo.95fe4386600977485f34.png",
     "static/media/oldman_dog.gif": "/tanush-portfolio/static/media/oldman_dog.d6cd93d5476b68402b65.gif",
     "index.html": "/tanush-portfolio/index.html",
-    "main.ed902ce9.css.map": "/tanush-portfolio/static/css/main.ed902ce9.css.map",
-    "main.2fb28fdc.js.map": "/tanush-portfolio/static/js/main.2fb28fdc.js.map"
+    "main.379184b5.css.map": "/tanush-portfolio/static/css/main.379184b5.css.map",
+    "main.8f085acb.js.map": "/tanush-portfolio/static/js/main.8f085acb.js.map"
   },
   "entrypoints": [
-    "static/css/main.ed902ce9.css",
-    "static/js/main.2fb28fdc.js"
+    "static/css/main.379184b5.css",
+    "static/js/main.8f085acb.js"
   ]
 }
