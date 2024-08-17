@@ -1,24 +1,25 @@
 {
   "files": {
-    "main.css": "/tanush-portfolio/static/css/main.379184b5.css",
-    "main.js": "/tanush-portfolio/static/js/main.b81cf5c1.js",
+    "main.css": "/tanush-portfolio/static/css/main.875285da.css",
+    "main.js": "/tanush-portfolio/static/js/main.8cf83f61.js",
     "static/media/projectOne.png": "/tanush-portfolio/static/media/projectOne.adb01e8b17d7b80d574e.png",
     "static/media/testimonialOne.png": "/tanush-portfolio/static/media/testimonialOne.a0a91817dfcdebaf4fa4.png",
     "static/media/bannerImg.png": "/tanush-portfolio/static/media/bannerImg.6db4fc4f7f15bb3a2542.png",
     "static/media/MNIST_Dataset.png": "/tanush-portfolio/static/media/MNIST_Dataset.cddc2964726a667f0ae3.png",
     "static/media/projectThree.jpg": "/tanush-portfolio/static/media/projectThree.e58709b653701c319743.jpg",
     "static/media/projectFour.jpg": "/tanush-portfolio/static/media/projectFour.b73b359237d6f9922908.jpg",
+    "static/media/projectFive.jpeg": "/tanush-portfolio/static/media/projectFive.22bd8f9e1208339345a4.jpeg",
     "static/media/contactImg.jpg": "/tanush-portfolio/static/media/contactImg.a23dd81ac5fe3e9b7022.jpg",
     "static/media/linearRegression.png": "/tanush-portfolio/static/media/linearRegression.c9c0ee85decdaa7b6a7a.png",
     "static/media/testimonialTwo.png": "/tanush-portfolio/static/media/testimonialTwo.c6df2773c486964035d9.png",
     "static/media/projectTwo.png": "/tanush-portfolio/static/media/projectTwo.95fe4386600977485f34.png",
     "static/media/oldman_dog.gif": "/tanush-portfolio/static/media/oldman_dog.d6cd93d5476b68402b65.gif",
     "index.html": "/tanush-portfolio/index.html",
-    "main.379184b5.css.map": "/tanush-portfolio/static/css/main.379184b5.css.map",
-    "main.b81cf5c1.js.map": "/tanush-portfolio/static/js/main.b81cf5c1.js.map"
+    "main.875285da.css.map": "/tanush-portfolio/static/css/main.875285da.css.map",
+    "main.8cf83f61.js.map": "/tanush-portfolio/static/js/main.8cf83f61.js.map"
   },
   "entrypoints": [
-    "static/css/main.379184b5.css",
-    "static/js/main.b81cf5c1.js"
+    "static/css/main.875285da.css",
+    "static/js/main.8cf83f61.js"
   ]
 }
